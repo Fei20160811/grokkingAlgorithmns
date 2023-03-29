@@ -73,4 +73,4 @@ def dijkstra_algo():
     return costs
 
 
-print(dijkstra_search())
+print(dijkstra_algo())
